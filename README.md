@@ -1,5 +1,4 @@
 # Predicting-Cardiovascular-Risk-among-South-Asians-using-Machine-Learning
-Project Author: Ariyan Atef
 
 # Overview
 This project focuses on using machine learning to predict cardiovascular disease risk among South Asian populations. Variables such as demographics, lifestyle habits, clinical issues, and other health-related variables will be used to develop multiple classification models in order to identify patterns and compare model accuracy to determine if machine learning is viable as a supplementary tool.
@@ -10,7 +9,6 @@ This project focuses on using machine learning to predict cardiovascular disease
 * Explore relationships between different variables and cardiovascular disease risk
 * Develop and compare multiple machine learning classification models
 * Evaluate model performance using metrics such as accuracy, precision, recall, F1-score, and ROC-AUC.
-
 * Identify potential challenges related to class imbalance and model performance.
 
 
