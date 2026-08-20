@@ -36,5 +36,23 @@ The models that were used are:
 3. Feature Selection & Preprocessing- Prepared relevant numerical and categorical variables for model training
 
 4. Model Development- Trained & created multiple classification models
-5. Model Evaluation- Compared models using performance metrics, with particular attention to the F1-score due to class imbalance
+5. Model Evaluation- Compared models using performance metrics, with particular attention to the F1-score due to class imbalance.
 
+
+# Key Findings
+The dataset contained an imbalance between the CVD risk classes which influenced model performance. The models themselves demonstrated varying levels of predictive ability, F1-scores generally ranged from approximately 0.55-0.60, demonstrating the fact that the model had difficulties identifying both classes within an imbalanced dataset.
+
+This project demonstrates the importance of considering multiple evaluation metrics rather than relying solely on accuracy when developing machine-learning models for health-related prediction tasks.
+
+
+# Dataset
+The dataset used for this project is the "Cardiovascular Disease Risk Assessment Dataset" published by Ahmed Mohamed Zaki.
+
+Dataset Link: https://www.kaggle.com/datasets/ahmeduzaki/cardiovascular-disease-risk-assessment-dataset
+
+# Future Improvements
+* Applying additional techniques to address class imbalance
+* Performing hyperparameter tuning
+* Explore additional feature engineering methods
+* Evaluating additional machine learning models
+* Validating model performance using external datasets.
